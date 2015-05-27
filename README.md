@@ -1,5 +1,6 @@
 # HinkyHangman
-Andriy Yavorskyy
 
-To compile type: make
-To run  type: make run or ./hinky yourDictionaryFile
+Written by: Andriy Yavorskyy
+
+To compile: make
+To run: make run or ./hinky yourDictionaryFile
